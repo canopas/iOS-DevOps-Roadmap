@@ -114,7 +114,7 @@
    - Set up the GitLab CI/CD pipeline to run the build script with each commit push
   
 ### Practical 9
- - Use [Practical 26](https://github.com/canopas/iOS-developer-roadmap-2023#practical-17)
+ - Use [Practical 17](https://github.com/canopas/iOS-developer-roadmap-2023#practical-17)
  - Create a GitHub repository for the Practical if one doesn't already exist.
  - Configure the script to:
    - Lint should run with each commit
@@ -127,14 +127,14 @@
 - Generate signing certificates.
 - Store the certificate and profile credentials as environment variables for security.
 - Write a script to install those signing certificates to GitLab CI.
-- Generate iPA from the archived build.
-- Upload the IPA to the iTune connect account.
+- Generate IPA from the archived build.
+- Upload the IPA to the iTunes Connect account.
 - The script should run only with merging MR pipeline.
 
 ### Practical 11
 - Use [Practical 26](https://github.com/canopas/iOS-developer-roadmap-2023#practical-26)
 - Generate signing certificates.
-- Do all the things same as the Practical 11, but with using GitHub.
+- Do all the things the same as the Practical 11, but using GitHub.
 
 ### Practical 12
 - Use [Practical 17](https://github.com/canopas/iOS-developer-roadmap-2023#practical-17)
@@ -142,6 +142,6 @@
 - Store the certificate and profile credentials as environment variables for security.
 - Write a script to install those signing certificates to GitLab CI.
 - Add auto versioning script to increase the version number with each build push.
-- Generate iPA from the archived build.
-- Upload the IPA file to the iTune connect account.
+- Generate IPA from the archived build.
+- Upload the IPA file to the iTunes Connect account.
 - The script should run only with merging MR pipeline.
