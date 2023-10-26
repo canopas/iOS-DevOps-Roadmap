@@ -9,6 +9,17 @@
   - Start by understanding the core DevOps concepts like continuous integration, continuous deployment, and automation.
   - Learn some basic scripts to get a basic understanding of scripting language.
   - Be aware of basic security practices, especially as they relate to your app and data handling.
+- Some Basic Guidelines for CI/CD:
+  - Understand the CI/CD concepts and their significance with pipeline usage.
+  - Learn how to set up the basic CI/CD pipeline with the GitLab-CI tool.
+  - All lint rules should be passed from the pipeline.
+  - Understand how to manage project dependencies like Cocoapods. And integrate them into the pipeline.
+  - Learn to automate the testing into the CI/CD pipeline.
+  - Learn how to use environment variables effectively in CI/CD pipelines including handling sensitive information like some passwords or keys.
+  - Get detailed knowledge about Signing Certificates and Provision profiles (Code Signing credentials) and learn to manage them with the pipeline.
+  - Understand auto deployments to the Apple App Store and TestFlight.
+  - Understand automatic versioning of the app within the CI/CD distribution pipeline.
+
 
 # Ensure code quality with Linting
 ### Practical 1
