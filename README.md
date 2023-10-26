@@ -80,14 +80,14 @@
 
 ### Practical 5
 #### Unit testing on GitHub
-- Write GitHub Action flow to run the unit test of [Practical 24](https://github.com/canopas/iOS-developer-roadmap-2023#practical-24)
+- Write GitHub Action flow to run the unit test of [Practical 25](https://github.com/canopas/iOS-developer-roadmap-2023#practical-25)
   - Create a repository on GitHub
   - Automate unit testing with GitHub CI
   - It should run on each commit
  
 ### Practical 6
 #### Unit testing on GitHub
-- Write GitHub Action flow to run the unit test of [Practical 24](https://github.com/canopas/iOS-developer-roadmap-2023#practical-17)
+- Write GitHub Action flow to run the unit test of [Practical 17](https://github.com/canopas/iOS-developer-roadmap-2023#practical-17)
   - Create a repository on GitLab
   - Automate unit testing with GitHub CI
   - It should run on each commit
